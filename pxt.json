@@ -1,6 +1,6 @@
 {
     "name": "makecode_test",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -13,7 +13,9 @@
         "README.md",
         "redefine_serial.cpp",
         "shims.d.ts",
-        "enums.d.ts"
+        "enums.d.ts",
+        "_locales/zh-CN/makecode_test-strings.json",
+        "_locales/zh-CN/makecode_test-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"

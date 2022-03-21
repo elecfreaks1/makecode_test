@@ -4,7 +4,6 @@ namespace makecode_test {
     //% block="Send Hex data %data_hex"
     //shim=redefine_serial::write_serial_hex
     export function write_serial_hex(data_hex: number) {
-        return 0
     }
 
     //% block="%on_off all XGO servo"
