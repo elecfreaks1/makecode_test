@@ -1,0 +1,5 @@
+{
+  "makecode_test.servo_switch|block": "%on_off all XGO servo",
+  "makecode_test.write_serial_hex|block": "Send Hex data %data_hex",
+  "{id:category}Makecode_test": "Makecode_test"
+}

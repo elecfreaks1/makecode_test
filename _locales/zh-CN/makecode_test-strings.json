@@ -1,0 +1,5 @@
+{
+  "makecode_test.servo_switch|block": "%on_off 所有 XGO 舵机",
+  "makecode_test.write_serial_hex|block": "发送十六进制数据 %data_hex",
+  "{id:category}Makecode_test": "Makecode测试"
+}
