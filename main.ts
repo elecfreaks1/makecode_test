@@ -1,4 +1,4 @@
-//% color=#8600FF weight=100 icon="\uf025"
+//% color=#8600FF weight=100 icon="\uf6d3"
 //% block="makecode_test" blockId="makecode_test"
 namespace makecode_test {
     //% block="Send Hex data %data_hex"
